@@ -3,3 +3,17 @@ nav{
     padding: 10px;
 
 }
+
+main{
+    padding: 20px;
+    color: cadetblue;
+    background-color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header h1{
+    background-color: #18ae93;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
