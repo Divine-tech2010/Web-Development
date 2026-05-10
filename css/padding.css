@@ -1,0 +1,31 @@
+.container {
+    width : 80%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: darkslateblue ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-color: black;
+    border: 2px solid black;
+    
+}
+
+.footer {
+    width: 80%;
+    background-color: aquamarine;
+    color: black;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid rgb(192, 90, 90);
+    border-radius: 20px; 
+}
+
+
