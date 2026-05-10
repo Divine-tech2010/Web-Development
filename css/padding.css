@@ -6,7 +6,20 @@
     padding-left: 20px;
     background-color: darkslateblue ;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
     
+}
+
+.footer {
+    width: 80%;
+    background-color: aquamarine;
+    color: black;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
